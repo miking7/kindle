@@ -1,4 +1,11 @@
+
+
 ## Welcome to GitHub Pages
+
+- http://faithfm.com.au
+- http://freekindlebooks.org
+- [printfriendly(http://printfriendly.com)
+
 
 You can use the [editor on GitHub](https://github.com/miking7/kindle/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
