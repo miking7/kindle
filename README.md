@@ -1,3 +1,3 @@
-- http://faithfm.com.au
+- [faithfm.com.au](http://faithfm.com.au)
 - [freekindlebooks.org](http://freekindlebooks.org)
-- [printfriendly](http://printfriendly.com)
+- [printfriendly.com](http://printfriendly.com)
